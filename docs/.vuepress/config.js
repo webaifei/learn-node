@@ -1,4 +1,6 @@
 module.exports = {
+  title: "nodejs学习文档",
+  base: "/learn-node/",
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
