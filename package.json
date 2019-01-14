@@ -1,0 +1,14 @@
+{
+  "name": "learn-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zhangaifei <zhangaifei@51.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:release": "./scripts/release.sh"
+  },
+  "dependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
