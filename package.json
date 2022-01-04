@@ -5,6 +5,7 @@
   "author": "zhangaifei <zhangaifei@51.com>",
   "license": "MIT",
   "scripts": {
+    "debug": "node demos/debug/index.js &",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "docs:release": "./scripts/release.sh"
